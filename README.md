@@ -7,7 +7,7 @@ The main program takes 3 arguments on the command line:
 - The output base digits
 - The input number
 
-As the input/output bases are expressed by a list of digits, custom digits maybe used instead of the standard ones.
+As the input/output bases are expressed by a list of digits, custom digits may be used instead of the standard ones.
 
 The class includes 2 methods:
 - initialize: a constructor that calculates the output number from the 3 arguments passed to this method (input base digits/output base digits/input number)
